@@ -871,6 +871,10 @@ $include-ext-viewport-wp: dynamic(true);;
 $include-ext-viewport-windowsphone: dynamic(true);;
 $include-ext-window-window: dynamic(true);;
 $include-tunes-application: dynamic(true);;
+$include-tunes-model-tune: dynamic(true);;
+$include-tunes-view-view: dynamic(true);;
+$include-tunes-view-main-basecontroller: dynamic(true);;
+$include-tunes-view-main-basemodel: dynamic(true);;
 $include-tunes-view-main-main: dynamic(true);;
 $include-tunes-view-main-maincontroller: dynamic(true);;
 $include-tunes-view-main-mainmodel: dynamic(true);;
@@ -1435,3 +1439,11 @@ $relative-image-path-for-uis: $theme-material-resource-path;
 @import '../../../../../ext/modern/theme-material/sass/src/grid/plugin/HeaderReorder';
 @import '../../../../../ext/modern/theme-material/sass/src/grid/plugin/filterbar/FilterBar';
 @import '../../../../../ext/modern/theme-material/sass/src/tab/Bar';
+
+/* including package Tunes */
+$Tunes-resource-root: '' !default;
+$Tunes-resource-path: 'images' !default;
+$current-package: false;
+$current-resource-root: $Tunes-resource-root;
+$relative-image-path-for-uis: $Tunes-resource-path;
+@import '../../../../../modern/sass/src/view/View';

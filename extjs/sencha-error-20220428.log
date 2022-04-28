@@ -1,0 +1,312 @@
+Sencha Cmd 7.5.1.20 - Crash report
+================================================
+An error occurred while executing the following command: generate app -starter=false Tunes ../labs/tunes
+
+Diagnostic information:
+=======================
+                                 app.dir : ../labs/tunes                                     
+                        app.sass.dynamic : true                                              
+                                args.dir : ../labs/tunes                                     
+                               args.path : ../labs/tunes                                     
+                          cmd.config.dir : C:\Users\dayananda.d\bin\Sencha\Cmd\7.5.1.20      
+                                 cmd.dir : C:\Users\dayananda.d\bin\Sencha\Cmd\7.5.1.20      
+                    cmd.framework.minver : 5.5.0                                             
+                   cmd.framework.version : 99.99                                             
+              cmd.merge.tool.args.araxis : -wait -merge -3 -a1 {base} {user} {generated} {out}
+              cmd.merge.tool.args.kdiff3 : {base} {user} {generated} -o {out}                
+             cmd.merge.tool.args.p4merge : {base} {user} {generated} {out}                   
+           cmd.merge.tool.args.smartsync : {user} {generated} {base}                         
+          cmd.merge.tool.args.sourcegear : --merge --result={out} {user} {base} {generated}  
+            cmd.merge.tool.args.tortoise : -base:{base} -theirs:{generated} -mine:{user} -merged:{out}
+                              cmd.minver : 3.0.0.0                                           
+                            cmd.platform : windows                                           
+                     cmd.unicode.escapes : C:\Users\dayananda.d\bin\Sencha\Cmd\7.5.1.20/unicode-escapes.json
+                             cmd.version : 7.5.1.20                                          
+                            cmd.web.port : 1841                                              
+                                 ext.dir : C:\Sencha training\extjs                          
+                        ext.license.name : commercial                                        
+                     framework.build.dir : ${package.output.base}                            
+                     framework.classpath : C:\Sencha training\extjs/src                      
+                    framework.cmd.minver : 7.5.1.1                                           
+                   framework.cmd.version : 7.5.1.1                                           
+                 framework.compatVersion : 7.5.0                                             
+                    framework.config.dir : C:\Users\dayananda.d\bin\Sencha\Cmd\7.5.1.20\plugins\ext\current
+                       framework.creator : Sencha                                            
+           framework.detailedDescription : Sencha Ext JS JavaScript Framework                
+                           framework.dir : C:\Sencha training\extjs                          
+                  framework.example.apps : admin-dashboard,executive-dashboard,feed-viewer,kitchensink,calendar,classic/desktop,classic/ticket-app,classic/portal,classic/simple-tasks,classic/responsive-app,classic/aria,modern/addressbook,modern/blackberry,modern/energy,modern/stockapp,modern/states,modern/geocongress,modern/oreilly
+                framework.example.apps.0 : admin-dashboard                                   
+                framework.example.apps.1 : executive-dashboard                               
+               framework.example.apps.10 : classic/aria                                      
+               framework.example.apps.11 : modern/addressbook                                
+               framework.example.apps.12 : modern/blackberry                                 
+               framework.example.apps.13 : modern/energy                                     
+               framework.example.apps.14 : modern/stockapp                                   
+               framework.example.apps.15 : modern/states                                     
+               framework.example.apps.16 : modern/geocongress                                
+               framework.example.apps.17 : modern/oreilly                                    
+                framework.example.apps.2 : feed-viewer                                       
+                framework.example.apps.3 : kitchensink                                       
+                framework.example.apps.4 : calendar                                          
+                framework.example.apps.5 : classic/desktop                                   
+                framework.example.apps.6 : classic/ticket-app                                
+                framework.example.apps.7 : classic/portal                                    
+                framework.example.apps.8 : classic/simple-tasks                              
+                framework.example.apps.9 : classic/responsive-app                            
+           framework.example.apps.length : 18                                                
+                  framework.example.path : examples,templates                                
+                framework.example.path.0 : examples                                          
+                framework.example.path.1 : templates                                         
+           framework.example.path.length : 2                                                 
+                        framework.format : 1                                                 
+                          framework.isV5 : true                                              
+                          framework.isV6 : true                                              
+                           framework.key : ext                                               
+     framework.language.js.input.version : ES5                                               
+                          framework.name : ext                                               
+                     framework.namespace : Ext                                               
+                        framework.output : C:\Sencha training\extjs/build                    
+                     framework.overrides : C:\Sencha training\extjs/overrides                
+                  framework.packages.dir : C:\Sencha training\extjs/packages/,C:\Sencha training\extjs/${toolkit.name}
+                          framework.path : ext                                               
+                framework.resource.paths : resources                                         
+              framework.resource.paths.0 : resources                                         
+         framework.resource.paths.length : 1                                                 
+                      framework.sass.etc : C:\Sencha training\extjs/sass/etc/all.scss        
+                  framework.sass.fashion : true                                              
+                framework.sass.namespace : Ext                                               
+                      framework.sass.src : C:\Sencha training\extjs/sass/src                 
+                      framework.sass.var : C:\Sencha training\extjs/sass/var                 
+        framework.signatures.0.algorithm : SHA1withRSA                                       
+          framework.signatures.0.created : 2022-02-04T16:59:06Z                              
+             framework.signatures.0.name : Sencha                                            
+            framework.signatures.0.nonce : Ljq1/dZC9OA=                                      
+        framework.signatures.0.signature : csCZoPYiF/wuL7AmHWQPgMnqD1+oauEArNiAnsbu3gCQHCgZBi1A6H1C9Yb8Zw8T/bgGjX1p+EchlHN3zwAyI2sXFTAFPais1L6vfhj103A4Kc9u2IgkayWtveXQ1CTDy7EvZhxCDTzWm2EFX5p2xQXo1IAEegSZEr1m76GK19/qFvTm5d+YSKxF0BFIQRk8nc2varduVZI0Wg0Z3VBO9Bu/ljr1NrB3k3KxhxkArTfoQ19G65tGXs2VpV5jCsdvyQFO5SO4I7kuxFNdoZqJyY4UQzRUqNqvBe3DXpQNJs1icf+4OlDkL5xA47Vjwbsl3R30Ix7VDUw3+8RqHgn3rg==
+             framework.signatures.0.uuid : 1d6b0d9c-3333-4e65-885f-5b07a1fc3198              
+             framework.signatures.length : 1                                                 
+                   framework.subpkgs.dir : C:\Sencha training\extjs                          
+              framework.subpkgs.packages : classic/classic,modern/modern,packages/charts,packages/amf,packages/soap,packages/ux,packages/google,packages/legacy,packages/font-awesome,packages/font-pictos,packages/font-ext
+            framework.subpkgs.packages.0 : classic/classic                                   
+            framework.subpkgs.packages.1 : modern/modern                                     
+           framework.subpkgs.packages.10 : packages/font-ext                                 
+            framework.subpkgs.packages.2 : packages/charts                                   
+            framework.subpkgs.packages.3 : packages/amf                                      
+            framework.subpkgs.packages.4 : packages/soap                                     
+            framework.subpkgs.packages.5 : packages/ux                                       
+            framework.subpkgs.packages.6 : packages/google                                   
+            framework.subpkgs.packages.7 : packages/legacy                                   
+            framework.subpkgs.packages.8 : packages/font-awesome                             
+            framework.subpkgs.packages.9 : packages/font-pictos                              
+       framework.subpkgs.packages.length : 11                                                
+                       framework.summary : Ext JS                                            
+                          framework.type : framework                                         
+                       framework.version : 7.5.1.5                                           
+                       inspector.address : http://localhost:1839/                            
+                            minimal.mode : true                                              
+                      package.base.names :                                                   
+                   package.base.packages :                                                   
+                       package.build.dir : ${package.output.base}                            
+                       package.classpath : C:\Sencha training\extjs/src                      
+                   package.compatVersion : 7.5.0                                             
+                      package.config.dir : C:\Users\dayananda.d\bin\Sencha\Cmd\7.5.1.20\ant\build\package
+                         package.creator : Sencha                                            
+             package.detailedDescription : Sencha Ext JS JavaScript Framework                
+                             package.dir : C:\Sencha training\extjs                          
+                    package.example.apps : admin-dashboard,executive-dashboard,feed-viewer,kitchensink,calendar,classic/desktop,classic/ticket-app,classic/portal,classic/simple-tasks,classic/responsive-app,classic/aria,modern/addressbook,modern/blackberry,modern/energy,modern/stockapp,modern/states,modern/geocongress,modern/oreilly
+                  package.example.apps.0 : admin-dashboard                                   
+                  package.example.apps.1 : executive-dashboard                               
+                 package.example.apps.10 : classic/aria                                      
+                 package.example.apps.11 : modern/addressbook                                
+                 package.example.apps.12 : modern/blackberry                                 
+                 package.example.apps.13 : modern/energy                                     
+                 package.example.apps.14 : modern/stockapp                                   
+                 package.example.apps.15 : modern/states                                     
+                 package.example.apps.16 : modern/geocongress                                
+                 package.example.apps.17 : modern/oreilly                                    
+                  package.example.apps.2 : feed-viewer                                       
+                  package.example.apps.3 : kitchensink                                       
+                  package.example.apps.4 : calendar                                          
+                  package.example.apps.5 : classic/desktop                                   
+                  package.example.apps.6 : classic/ticket-app                                
+                  package.example.apps.7 : classic/portal                                    
+                  package.example.apps.8 : classic/simple-tasks                              
+                  package.example.apps.9 : classic/responsive-app                            
+             package.example.apps.length : 18                                                
+                    package.example.path : examples,templates                                
+                  package.example.path.0 : examples                                          
+                  package.example.path.1 : templates                                         
+             package.example.path.length : 2                                                 
+                          package.format : 1                                                 
+       package.language.js.input.version : ES5                                               
+                            package.name : ext                                               
+                       package.namespace : Ext                                               
+                          package.output : C:\Sencha training\extjs/build                    
+                       package.overrides : C:\Sencha training\extjs/overrides                
+                  package.requires.names :                                                   
+               package.requires.packages :                                                   
+                  package.resource.paths : resources                                         
+                package.resource.paths.0 : resources                                         
+           package.resource.paths.length : 1                                                 
+                    package.sass.dynamic : true                                              
+                        package.sass.etc : C:\Sencha training\extjs/sass/etc/all.scss        
+                    package.sass.fashion : true                                              
+                  package.sass.namespace : Ext                                               
+                        package.sass.src : C:\Sencha training\extjs/sass/src                 
+                        package.sass.var : C:\Sencha training\extjs/sass/var                 
+          package.signatures.0.algorithm : SHA1withRSA                                       
+            package.signatures.0.created : 2022-02-04T16:59:06Z                              
+               package.signatures.0.name : Sencha                                            
+              package.signatures.0.nonce : Ljq1/dZC9OA=                                      
+          package.signatures.0.signature : csCZoPYiF/wuL7AmHWQPgMnqD1+oauEArNiAnsbu3gCQHCgZBi1A6H1C9Yb8Zw8T/bgGjX1p+EchlHN3zwAyI2sXFTAFPais1L6vfhj103A4Kc9u2IgkayWtveXQ1CTDy7EvZhxCDTzWm2EFX5p2xQXo1IAEegSZEr1m76GK19/qFvTm5d+YSKxF0BFIQRk8nc2varduVZI0Wg0Z3VBO9Bu/ljr1NrB3k3KxhxkArTfoQ19G65tGXs2VpV5jCsdvyQFO5SO4I7kuxFNdoZqJyY4UQzRUqNqvBe3DXpQNJs1icf+4OlDkL5xA47Vjwbsl3R30Ix7VDUw3+8RqHgn3rg==
+               package.signatures.0.uuid : 1d6b0d9c-3333-4e65-885f-5b07a1fc3198              
+               package.signatures.length : 1                                                 
+                     package.subpkgs.dir : C:\Sencha training\extjs                          
+                package.subpkgs.packages : classic/classic,modern/modern,packages/charts,packages/amf,packages/soap,packages/ux,packages/google,packages/legacy,packages/font-awesome,packages/font-pictos,packages/font-ext
+              package.subpkgs.packages.0 : classic/classic                                   
+              package.subpkgs.packages.1 : modern/modern                                     
+             package.subpkgs.packages.10 : packages/font-ext                                 
+              package.subpkgs.packages.2 : packages/charts                                   
+              package.subpkgs.packages.3 : packages/amf                                      
+              package.subpkgs.packages.4 : packages/soap                                     
+              package.subpkgs.packages.5 : packages/ux                                       
+              package.subpkgs.packages.6 : packages/google                                   
+              package.subpkgs.packages.7 : packages/legacy                                   
+              package.subpkgs.packages.8 : packages/font-awesome                             
+              package.subpkgs.packages.9 : packages/font-pictos                              
+         package.subpkgs.packages.length : 11                                                
+                         package.summary : Ext JS                                            
+                            package.type : framework                                         
+                         package.version : 7.5.1.5                                           
+                          repo.local.dir : C:\Users\dayananda.d\bin\Sencha\Cmd\repo          
+                       shared.sencha.dir : true                                              
+                               skip.sass : 1                                                 
+                              skip.slice : 1                                                 
+        system.java.net.useSystemProxies : true                                              
+                     workspace.build.dir : C:\Sencha training\extjs/build                    
+                    workspace.config.dir : C:\Sencha training\extjs\.sencha\workspace        
+                           workspace.dir : C:\Sencha training\extjs                          
+                     workspace.json.path : C:\Sencha training\labs\tunes                     
+                  workspace.packages.dir : C:\Sencha training\extjs/packages                 
+                 workspace.subpkg.prefix : C:\Sencha training\extjs/build/${toolkit.name}    
+
+Exception information:
+=======================
+C:\Users\dayananda.d\bin\Sencha\Cmd\7.5.1.20\plugins\ext\current\plugin.xml:158: com.sencha.exceptions.ExVersion: Cannot resolve package requirements
+     at com.sencha.ant.AntScript.execute(AntScript.java:121)
+     at com.sencha.command.plugin.PluginManager.execute(PluginManager.java:104)
+     at com.sencha.command.plugin.PluginManager.executeReverseFirst(PluginManager.java:145)
+     at com.sencha.command.environment.BuildEnvironment.execute(BuildEnvironment.java:309)
+     at com.sencha.command.generator.GeneratorCommands$AppCommand.execute(GeneratorCommands.java:532)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at com.sencha.util.MethodInvoker$Arguments.invoke(MethodInvoker.java:175)
+     at com.sencha.cli.Command.dispatch(Command.java:43)
+     at com.sencha.command.BasePluginCommands$BasePluginCommand.dispatch(BasePluginCommands.java:289)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.command.Sencha.dispatch(Sencha.java:80)
+     at com.sencha.command.Sencha.main(Sencha.java:151)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:84)
+     at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:94)
+     at com.install4j.runtime.launcher.WinLauncher.main(WinLauncher.java:25)
+   Caused by: com.sencha.exceptions.ExVersion: Cannot resolve package requirements
+     at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:116)
+     at org.apache.tools.ant.Task.perform(Task.java:348)
+     at org.apache.tools.ant.Target.execute(Target.java:392)
+     at org.apache.tools.ant.Target.performTasks(Target.java:413)
+     at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1399)
+     at org.apache.tools.ant.Project.executeTarget(Project.java:1368)
+     at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(DefaultExecutor.java:41)
+     at org.apache.tools.ant.Project.executeTargets(Project.java:1251)
+     at com.sencha.ant.AntScript.execute(AntScript.java:117)
+     at com.sencha.command.plugin.PluginManager.execute(PluginManager.java:104)
+     at com.sencha.command.plugin.PluginManager.executeReverseFirst(PluginManager.java:145)
+     at com.sencha.command.environment.BuildEnvironment.execute(BuildEnvironment.java:309)
+     at com.sencha.command.generator.GeneratorCommands$AppCommand.execute(GeneratorCommands.java:532)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at com.sencha.util.MethodInvoker$Arguments.invoke(MethodInvoker.java:175)
+     at com.sencha.cli.Command.dispatch(Command.java:43)
+     at com.sencha.command.BasePluginCommands$BasePluginCommand.dispatch(BasePluginCommands.java:289)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.command.Sencha.dispatch(Sencha.java:80)
+     at com.sencha.command.Sencha.main(Sencha.java:151)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:84)
+     at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:94)
+     at com.install4j.runtime.launcher.WinLauncher.main(WinLauncher.java:25)
+   Caused by: Cannot resolve package requirements
+     at com.sencha.tools.pkg.PackageResolver.getPackages(PackageResolver.java:184)
+     at com.sencha.tools.pkg.PackageResolver.getPackages(PackageResolver.java:177)
+     at com.sencha.tools.pkg.PackageResolver.applyTransitivity(PackageResolver.java:129)
+     at com.sencha.command.environment.WorkspaceRepository.resolvePackageModels(WorkspaceRepository.java:124)
+     at com.sencha.command.environment.WorkspaceRepository.resolvePackageEnvironments(WorkspaceRepository.java:102)
+     at com.sencha.command.environment.PackageDependencies.resolveDependencies(PackageDependencies.java:93)
+     at com.sencha.command.environment.PackageDependencies.resolve(PackageDependencies.java:133)
+     at com.sencha.command.environment.PackageDependency.getUsedPackages(PackageDependency.java:400)
+     at com.sencha.command.environment.AppOrPackageEnvironment.getUsedPackages(AppOrPackageEnvironment.java:189)
+     at com.sencha.command.environment.AppOrPackageEnvironment.getUsedPackages(AppOrPackageEnvironment.java:147)
+     at com.sencha.command.environment.AppOrPackageEnvironment.getUsedPackageNames(AppOrPackageEnvironment.java:151)
+     at com.sencha.command.app.AppCommands$BuildCommand.execute(AppCommands.java:461)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at com.sencha.util.MethodInvoker$Arguments.invoke(MethodInvoker.java:175)
+     at com.sencha.cli.Command.dispatch(Command.java:43)
+     at com.sencha.command.BasePluginCommands$BasePluginCommand.dispatch(BasePluginCommands.java:289)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.command.Sencha.dispatch(Sencha.java:80)
+     at com.sencha.cli.AbstractCommand.dispatch(AbstractCommand.java:124)
+     at com.sencha.ant.SenchaCommandTask.doExecute(SenchaCommandTask.java:42)
+     at com.sencha.ant.BaseAntTask.execute(BaseAntTask.java:34)
+     at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+     at org.apache.tools.ant.Task.perform(Task.java:348)
+     at org.apache.tools.ant.Target.execute(Target.java:392)
+     at org.apache.tools.ant.Target.performTasks(Target.java:413)
+     at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1399)
+     at org.apache.tools.ant.Project.executeTarget(Project.java:1368)
+     at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(DefaultExecutor.java:41)
+     at org.apache.tools.ant.Project.executeTargets(Project.java:1251)
+     at com.sencha.ant.AntScript.execute(AntScript.java:117)
+     at com.sencha.command.plugin.PluginManager.execute(PluginManager.java:104)
+     at com.sencha.command.plugin.PluginManager.executeReverseFirst(PluginManager.java:145)
+     at com.sencha.command.environment.BuildEnvironment.execute(BuildEnvironment.java:309)
+     at com.sencha.command.generator.GeneratorCommands$AppCommand.execute(GeneratorCommands.java:532)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at com.sencha.util.MethodInvoker$Arguments.invoke(MethodInvoker.java:175)
+     at com.sencha.cli.Command.dispatch(Command.java:43)
+     at com.sencha.command.BasePluginCommands$BasePluginCommand.dispatch(BasePluginCommands.java:289)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.command.Sencha.dispatch(Sencha.java:80)
+     at com.sencha.command.Sencha.main(Sencha.java:151)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+     at java.lang.reflect.Method.invoke(Method.java:498)
+     at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:84)
+     at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:94)
+     at com.install4j.runtime.launcher.WinLauncher.main(WinLauncher.java:25)
+
