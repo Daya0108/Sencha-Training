@@ -3,11 +3,18 @@ Ext.define("Tunes.view.main.Main", {
     xtype: 'main',
     requires: [
         "Tunes.view.main.MainController",
-        "Tunes.view.main.MainModel"
+        "Tunes.view.main.MainModel",
+        'Tunes.view.View'
     ],
     controller: "main-main",
     viewModel: {
         type: "main-main"
     },
-    html: "Modern main view"
+    layout: 'fit',
+    items: [{
+        xtype: 'tunesview',
+        bind: {
+            store: '{tunes}'
+        }
+    }]
 });

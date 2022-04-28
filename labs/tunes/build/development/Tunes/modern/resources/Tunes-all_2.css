@@ -8660,3 +8660,28 @@ body {
 .x-big .x-tabbar-body-el {
     padding: 0;
 }
+/* C:/Sencha training/labs/tunes/modern/sass/src/view/View.scss:1 */
+.valign,
+.video img,
+.video p {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+/* C:/Sencha training/labs/tunes/modern/sass/src/view/View.scss:6 */
+.video {
+    overflow: hidden;
+    white-space: nowrap;
+    height: 60px;
+}
+/* C:/Sencha training/labs/tunes/modern/sass/src/view/View.scss:10 */
+.video img {
+    width: 90px;
+    float: left;
+}
+/* C:/Sencha training/labs/tunes/modern/sass/src/view/View.scss:15 */
+.video p {
+    -webkit-margin-before: 0;
+    left: 110px;
+    font-size: 1.1em;
+}
