@@ -2,10 +2,11 @@ Ext.define("Tunes.view.main.Main", {
     extend: "Ext.panel.Panel",
     xtype: 'main',
     requires: [
-        "Tunes.view.main.MainController",
-        "Tunes.view.main.MainModel",
+        // "Tunes.view.main.MainController",
+        // "Tunes.view.main.MainModel",
         'Ext.plugin.Viewport',
-        'Tunes.view.View'
+        // 'Tunes.view.View',
+        'Tunes.*'
     ],
     controller: "main-main",
     viewModel: {
