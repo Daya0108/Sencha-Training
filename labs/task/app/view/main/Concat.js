@@ -1,0 +1,17 @@
+Ext.define('Task.view.main.Concat',{
+    extend:'Ext.container.Container',
+    xtype:'concat',
+    requires:[
+        'Task.view.main.List',
+        'Task.view.main.Contentform'   
+    ],
+    layout:{
+        type:'vbox',
+        align:'stretch',
+        pack:'start'
+    },
+    items:[
+        {xtype:'mainlist',border:true},
+        {xtype:'contentform',border:true}
+    ]
+})
