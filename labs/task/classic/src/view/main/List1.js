@@ -1,9 +1,9 @@
 /**
  * This view is an example list of people.
  */
-Ext.define('Task.view.main.List', {
+ Ext.define('Task.view.main.List1', {
     extend: 'Ext.grid.Panel',
-    xtype: 'mainlist',
+    xtype: 'sublist',
 
     requires: [
         'Task.store.Personnel'
@@ -11,14 +11,9 @@ Ext.define('Task.view.main.List', {
     bind: {
         selection: '{Movie}'
     },
-    title: 'Top 7 Tending Movies according to genre',
-
-    store: {
-        type: 'personnel'
-    },
-
+    // bind:{title: '{Movie.title}'},
     columns: [
-        { text: 'Director', dataIndex: 'director',flex:1 },
+        { text: 'Director', dataIndex: 'director',flex:1,},
         { text: 'Title', dataIndex: 'title', flex: 1 },
         { text: 'Producer', dataIndex: 'producer', flex: 1 },
         { text: 'Genre', dataIndex: 'genre', flex: 1 }

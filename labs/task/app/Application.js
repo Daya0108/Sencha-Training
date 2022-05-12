@@ -14,7 +14,6 @@ Ext.define('Task.Application', {
             quickTips: true
         }
     },
-
     onAppUpdate: function () {
         Ext.Msg.confirm('Application Update', 'This application has an update, reload?',
             function (choice) {
