@@ -7,5 +7,6 @@ Ext.define('Tunes.view.View', {
         '<div style="left: 110px;font-size: 1.1em;">',
         '<p><b>{title}</b><br>{artist}</p>',
         '</div>'
-    ]
+    ],
+    grouped:true
 });

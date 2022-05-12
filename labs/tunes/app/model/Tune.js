@@ -19,6 +19,17 @@ Ext.define('Tunes.model.Tune', {
     }, {
         name: 'preview',
         mapping: 'link[1].attributes.href'
+    },{
+        name: 'sortArtist',
+        calculate: function(data) {
+            if (!data.artist) return; // Temporary, to address bug in initial release of 6.5.0
+            var result = data.artist.toLowerCase().trim();
+            if (result.startsWith('the ')) {
+                return result.substr(4);
+            } else {
+                return result;
+            }
+        }
     }],
     proxy: {
         type: 'jsonp',

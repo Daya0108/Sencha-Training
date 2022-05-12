@@ -6,5 +6,6 @@ Ext.define('Tunes.view.main.BaseModel', {
             model: 'Tunes.model.Tune',
             autoLoad: true
         }
-    }
+    },
+    sorter:'sortArtist'
 });

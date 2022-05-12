@@ -15,6 +15,9 @@ Ext.define("Tunes.view.main.Main", {
     layout: 'fit',
     items: [{
         xtype: 'tunesview',
+        listeners: {
+            itemclick: 'onShowPreview'
+        },
         bind: {
             store: '{tunes}'
         }

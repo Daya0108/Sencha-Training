@@ -1,5 +1,5 @@
 Ext.define("Tunes.view.main.Main", {
-    extend: "Ext.Container",
+    extend:'Ext.navigation.View',
     xtype: 'main',
     requires: [
         "Tunes.view.main.MainController",
@@ -10,11 +10,14 @@ Ext.define("Tunes.view.main.Main", {
     viewModel: {
         type: "main-main"
     },
-    layout: 'fit',
     items: [{
         xtype: 'tunesview',
+        title: 'iTunes Music Videos',
         bind: {
-            store: '{tunes}'
+            store: '{tunesGrouped}'
+        },
+        listeners: {
+            itemtap: 'onShowPreview'
         }
     }]
 });
