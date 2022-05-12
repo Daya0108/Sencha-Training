@@ -1,0 +1,3121 @@
+{
+    "text": ".",
+    "children": [{
+            "task": "Krithunga Restaurant",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                    "task": "menu",
+                    "iconCls": "x-fa fa-list",
+                    "children": [{
+                            "task": "Butter roti",
+                            "type":"Tandoor roti and Nan",
+                            "duration": 0.25,
+                            "assignee": "Prasad",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        },{
+                            "task": "Paneer Butter masala",
+                            "duration": 0.3,
+                            "type":"main Course",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        }, {
+                            "task": "Chicken Kebab",
+                            "duration": 0.3,
+                            "type":"Starter",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        },{
+                            "task": "Chicken Fried rice",
+                            "duration": 0.3,
+                            "type":"Rice and Biriyani",
+                            "assignee": "Vikram",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        }, {
+                            "task": "Gobi manchurian",
+                            "type":"Manchurian",
+                            "duration": 0.2,
+                            "assignee": "Raj",
+                            "leaf": true,
+                            "status":"Yet to Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        }, {
+                            "task": "Veg meal",
+                            "type":"meal",
+                            "duration": 0.4,
+                            "assignee": "Ravi sharma",
+                            "leaf": true,
+                            "status":"Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Chicken meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "chandu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Mutton meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "Tarun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Sweet and salt soda",
+                            "duration": 0.1,
+                            "status":"Yet to Ready",
+                            "type":"Juice and soda",
+                            "assignee": "Arjun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "chololate scoupe",
+                            "duration": 0.1,
+                            "type":"Ice cream",
+                            "status":"Ready",
+                            "assignee": "Santhu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "task": "Swathi Gardenia",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Empire Hotel",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Nandana Palace",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Hotel Nagarjuna",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]},{"task": "Krithunga Restaurant",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                    "task": "menu",
+                    "iconCls": "x-fa fa-list",
+                    "children": [{
+                            "task": "Butter roti",
+                            "type":"Tandoor roti and Nan",
+                            "duration": 0.25,
+                            "assignee": "Prasad",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        },{
+                            "task": "Paneer Butter masala",
+                            "duration": 0.3,
+                            "type":"main Course",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        }, {
+                            "task": "Chicken Kebab",
+                            "duration": 0.3,
+                            "type":"Starter",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        },{
+                            "task": "Chicken Fried rice",
+                            "duration": 0.3,
+                            "type":"Rice and Biriyani",
+                            "assignee": "Vikram",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        }, {
+                            "task": "Gobi manchurian",
+                            "type":"Manchurian",
+                            "duration": 0.2,
+                            "assignee": "Raj",
+                            "leaf": true,
+                            "status":"Yet to Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        }, {
+                            "task": "Veg meal",
+                            "type":"meal",
+                            "duration": 0.4,
+                            "assignee": "Ravi sharma",
+                            "leaf": true,
+                            "status":"Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Chicken meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "chandu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Mutton meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "Tarun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Sweet and salt soda",
+                            "duration": 0.1,
+                            "status":"Yet to Ready",
+                            "type":"Juice and soda",
+                            "assignee": "Arjun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "chololate scoupe",
+                            "duration": 0.1,
+                            "type":"Ice cream",
+                            "status":"Ready",
+                            "assignee": "Santhu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "task": "Swathi Gardenia",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Empire Hotel",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Nandana Palace",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Hotel Nagarjuna",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]},{"task": "Krithunga Restaurant",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                    "task": "menu",
+                    "iconCls": "x-fa fa-list",
+                    "children": [{
+                            "task": "Butter roti",
+                            "type":"Tandoor roti and Nan",
+                            "duration": 0.25,
+                            "assignee": "Prasad",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        },{
+                            "task": "Paneer Butter masala",
+                            "duration": 0.3,
+                            "type":"main Course",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        }, {
+                            "task": "Chicken Kebab",
+                            "duration": 0.3,
+                            "type":"Starter",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        },{
+                            "task": "Chicken Fried rice",
+                            "duration": 0.3,
+                            "type":"Rice and Biriyani",
+                            "assignee": "Vikram",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        }, {
+                            "task": "Gobi manchurian",
+                            "type":"Manchurian",
+                            "duration": 0.2,
+                            "assignee": "Raj",
+                            "leaf": true,
+                            "status":"Yet to Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        }, {
+                            "task": "Veg meal",
+                            "type":"meal",
+                            "duration": 0.4,
+                            "assignee": "Ravi sharma",
+                            "leaf": true,
+                            "status":"Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Chicken meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "chandu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Mutton meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "Tarun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Sweet and salt soda",
+                            "duration": 0.1,
+                            "status":"Yet to Ready",
+                            "type":"Juice and soda",
+                            "assignee": "Arjun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "chololate scoupe",
+                            "duration": 0.1,
+                            "type":"Ice cream",
+                            "status":"Ready",
+                            "assignee": "Santhu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "task": "Swathi Gardenia",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Empire Hotel",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Nandana Palace",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Hotel Nagarjuna",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]},{"task": "Krithunga Restaurant",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                    "task": "menu",
+                    "iconCls": "x-fa fa-list",
+                    "children": [{
+                            "task": "Butter roti",
+                            "type":"Tandoor roti and Nan",
+                            "duration": 0.25,
+                            "assignee": "Prasad",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        },{
+                            "task": "Paneer Butter masala",
+                            "duration": 0.3,
+                            "type":"main Course",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        }, {
+                            "task": "Chicken Kebab",
+                            "duration": 0.3,
+                            "type":"Starter",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        },{
+                            "task": "Chicken Fried rice",
+                            "duration": 0.3,
+                            "type":"Rice and Biriyani",
+                            "assignee": "Vikram",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        }, {
+                            "task": "Gobi manchurian",
+                            "type":"Manchurian",
+                            "duration": 0.2,
+                            "assignee": "Raj",
+                            "leaf": true,
+                            "status":"Yet to Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        }, {
+                            "task": "Veg meal",
+                            "type":"meal",
+                            "duration": 0.4,
+                            "assignee": "Ravi sharma",
+                            "leaf": true,
+                            "status":"Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Chicken meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "chandu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Mutton meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "Tarun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Sweet and salt soda",
+                            "duration": 0.1,
+                            "status":"Yet to Ready",
+                            "type":"Juice and soda",
+                            "assignee": "Arjun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "chololate scoupe",
+                            "duration": 0.1,
+                            "type":"Ice cream",
+                            "status":"Ready",
+                            "assignee": "Santhu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "task": "Swathi Gardenia",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Empire Hotel",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Nandana Palace",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Hotel Nagarjuna",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]},{"task": "Krithunga Restaurant",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                    "task": "menu",
+                    "iconCls": "x-fa fa-list",
+                    "children": [{
+                            "task": "Butter roti",
+                            "type":"Tandoor roti and Nan",
+                            "duration": 0.25,
+                            "assignee": "Prasad",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        },{
+                            "task": "Paneer Butter masala",
+                            "duration": 0.3,
+                            "type":"main Course",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        }, {
+                            "task": "Chicken Kebab",
+                            "duration": 0.3,
+                            "type":"Starter",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        },{
+                            "task": "Chicken Fried rice",
+                            "duration": 0.3,
+                            "type":"Rice and Biriyani",
+                            "assignee": "Vikram",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        }, {
+                            "task": "Gobi manchurian",
+                            "type":"Manchurian",
+                            "duration": 0.2,
+                            "assignee": "Raj",
+                            "leaf": true,
+                            "status":"Yet to Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        }, {
+                            "task": "Veg meal",
+                            "type":"meal",
+                            "duration": 0.4,
+                            "assignee": "Ravi sharma",
+                            "leaf": true,
+                            "status":"Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Chicken meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "chandu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Mutton meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "Tarun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Sweet and salt soda",
+                            "duration": 0.1,
+                            "status":"Yet to Ready",
+                            "type":"Juice and soda",
+                            "assignee": "Arjun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "chololate scoupe",
+                            "duration": 0.1,
+                            "type":"Ice cream",
+                            "status":"Ready",
+                            "assignee": "Santhu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "task": "Swathi Gardenia",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Empire Hotel",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Nandana Palace",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Hotel Nagarjuna",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]},{"task": "Krithunga Restaurant",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                    "task": "menu",
+                    "iconCls": "x-fa fa-list",
+                    "children": [{
+                            "task": "Butter roti",
+                            "type":"Tandoor roti and Nan",
+                            "duration": 0.25,
+                            "assignee": "Prasad",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        },{
+                            "task": "Paneer Butter masala",
+                            "duration": 0.3,
+                            "type":"main Course",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        }, {
+                            "task": "Chicken Kebab",
+                            "duration": 0.3,
+                            "type":"Starter",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        },{
+                            "task": "Chicken Fried rice",
+                            "duration": 0.3,
+                            "type":"Rice and Biriyani",
+                            "assignee": "Vikram",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        }, {
+                            "task": "Gobi manchurian",
+                            "type":"Manchurian",
+                            "duration": 0.2,
+                            "assignee": "Raj",
+                            "leaf": true,
+                            "status":"Yet to Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        }, {
+                            "task": "Veg meal",
+                            "type":"meal",
+                            "duration": 0.4,
+                            "assignee": "Ravi sharma",
+                            "leaf": true,
+                            "status":"Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Chicken meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "chandu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Mutton meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "Tarun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Sweet and salt soda",
+                            "duration": 0.1,
+                            "status":"Yet to Ready",
+                            "type":"Juice and soda",
+                            "assignee": "Arjun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "chololate scoupe",
+                            "duration": 0.1,
+                            "type":"Ice cream",
+                            "status":"Ready",
+                            "assignee": "Santhu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "task": "Swathi Gardenia",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Empire Hotel",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Nandana Palace",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Hotel Nagarjuna",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]},{"task": "Krithunga Restaurant",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                    "task": "menu",
+                    "iconCls": "x-fa fa-list",
+                    "children": [{
+                            "task": "Butter roti",
+                            "type":"Tandoor roti and Nan",
+                            "duration": 0.25,
+                            "assignee": "Prasad",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        },{
+                            "task": "Paneer Butter masala",
+                            "duration": 0.3,
+                            "type":"main Course",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        }, {
+                            "task": "Chicken Kebab",
+                            "duration": 0.3,
+                            "type":"Starter",
+                            "assignee": "Kalyan",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Ready"
+                        },{
+                            "task": "Chicken Fried rice",
+                            "duration": 0.3,
+                            "type":"Rice and Biriyani",
+                            "assignee": "Vikram",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils",
+                            "status":"Yet to Ready"
+                        }, {
+                            "task": "Gobi manchurian",
+                            "type":"Manchurian",
+                            "duration": 0.2,
+                            "assignee": "Raj",
+                            "leaf": true,
+                            "status":"Yet to Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        }, {
+                            "task": "Veg meal",
+                            "type":"meal",
+                            "duration": 0.4,
+                            "assignee": "Ravi sharma",
+                            "leaf": true,
+                            "status":"Ready",
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Chicken meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "chandu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Mutton meal",
+                            "duration": 0.4,
+                            "type":"meal",
+                            "status":"Ready",
+                            "assignee": "Tarun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "Sweet and salt soda",
+                            "duration": 0.1,
+                            "status":"Yet to Ready",
+                            "type":"Juice and soda",
+                            "assignee": "Arjun",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        },{
+                            "task": "chololate scoupe",
+                            "duration": 0.1,
+                            "type":"Ice cream",
+                            "status":"Ready",
+                            "assignee": "Santhu",
+                            "leaf": true,
+                            "iconCls": "x-fa fa-utensils"
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "task": "Swathi Gardenia",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Empire Hotel",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    }, {
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Nandana Palace",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}, {
+            "task": "Hotel Nagarjuna",
+            "iconCls": "x-fa fa-building",
+            "children": [{
+                "task": "menu",
+                "iconCls": "x-fa fa-list",
+                "children": [{
+                        "task": "Butter roti",
+                        "type":"Tandoor roti and Nan",
+                        "duration": 0.25,
+                        "assignee": "Prasad",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    },{
+                        "task": "Paneer Butter masala",
+                        "duration": 0.3,
+                        "type":"main Course",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Kebab",
+                        "duration": 0.3,
+                        "type":"Starter",
+                        "assignee": "Kalyan",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Ready"
+                    },{
+                        "task": "Chicken Fried rice",
+                        "duration": 0.3,
+                        "type":"Rice and Biriyani",
+                        "assignee": "Vikram",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils",
+                        "status":"Yet to Ready"
+                    }, {
+                        "task": "Gobi manchurian",
+                        "type":"Manchurian",
+                        "duration": 0.2,
+                        "assignee": "Raj",
+                        "leaf": true,
+                        "status":"Yet to Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    }, {
+                        "task": "Veg meal",
+                        "type":"meal",
+                        "duration": 0.4,
+                        "assignee": "Ravi sharma",
+                        "leaf": true,
+                        "status":"Ready",
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Chicken meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "chandu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Mutton meal",
+                        "duration": 0.4,
+                        "type":"meal",
+                        "status":"Ready",
+                        "assignee": "Tarun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "Sweet and salt soda",
+                        "duration": 0.1,
+                        "status":"Yet to Ready",
+                        "type":"Juice and soda",
+                        "assignee": "Arjun",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    },{
+                        "task": "chololate scoupe",
+                        "duration": 0.1,
+                        "type":"Ice cream",
+                        "status":"Ready",
+                        "assignee": "Santhu",
+                        "leaf": true,
+                        "iconCls": "x-fa fa-utensils"
+                    }
+                ]
+            }
+        ]}
+    ]
+}
